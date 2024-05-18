@@ -2,6 +2,8 @@
 
 This project consists of a backend built with Express.js and a frontend built with React. The backend provides API endpoints for handling submissions, while the frontend provides a user interface for interacting with these submissions.
 
+![image](https://github.com/SurajSanap/CodePlay/assets/101057653/665dac95-1db0-4d0e-8a6b-fa91c82438da)
+
 ## Backend
 
 ### Technologies Used:
