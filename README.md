@@ -4,6 +4,8 @@ This project consists of a backend built with Express.js and a frontend built wi
 
 ![image](https://github.com/SurajSanap/CodePlay/assets/101057653/665dac95-1db0-4d0e-8a6b-fa91c82438da)
 
+![image](https://github.com/SurajSanap/CodePlay/assets/101057653/eb9476e0-c3e8-41e2-972a-c5e33bff8e22)
+
 ## Backend
 
 ### Technologies Used:
